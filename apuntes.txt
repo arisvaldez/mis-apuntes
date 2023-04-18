@@ -2,3 +2,6 @@
 2 - Aprender Flutter
 3 - Aprender Patrones de Diseno
 4 - Aprender Git
+4 - Aprender SOLID
+6 - Aprender a Manejar Conflictos
+7 - Aprender Grass
