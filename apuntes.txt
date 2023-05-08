@@ -5,3 +5,4 @@
 4 - Aprender SOLID
 6 - Aprender a Manejar Conflictos
 7 - Aprender Grass
+8 - Erick entro
